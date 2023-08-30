@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, i'm a web developer with experience as a Backend and Frontend using PHP, JS, CSS and PYTHON.
+### 
 <!--
 **JM-joaquin/JM-joaquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
