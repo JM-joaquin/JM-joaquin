@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/joaquinm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/joaquinm2" height="30" width="40" /></a>
 <a href="https://dev.to/https://joaquin-monzon-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://joaquin-monzon-portfolio.netlify.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joaquín monzón" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquín monzón" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joaqu%c3%adn-monz%c3%b3n-150b1a2a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaqu%c3%adn-monz%c3%b3n-150b1a2a6/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/joaquinmonzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/joaquinmonzon" height="30" width="40" /></a>
 </p>
 
