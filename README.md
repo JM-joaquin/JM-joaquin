@@ -7,7 +7,7 @@
 <a href="https://codepen.io/joaquinm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joaquinm2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joaqu%c3%adn-monz%c3%b3n-150b1a2a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaqu%c3%adn-monz%c3%b3n-150b1a2a6/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/joaquinmonzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="joaquinmonzon" height="30" width="40" /></a>
-<a href="[https://codesandbox.com/joaquinmonzon](https://joaquin-monzon-portfolio.netlify.app/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4926/4926871.png" alt="joaquinmonzon" height="30" width="40" /></a>
+<a href="[https://codesandbox.com/joaquinmonzon](https://joaquin-monzon-portfolio.netlify.app/)" target="blank"><img align="center" src="https://www.icored.coop/wp-content/uploads/2018/01/cropped-logotipo-mundo.png" alt="joaquinmonzon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
